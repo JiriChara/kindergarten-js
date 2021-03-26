@@ -1,0 +1,21 @@
+{
+  "name": "@kindergarten/core",
+  "version": "1.0.0",
+  "description": "Library for modular authorization of JavaScript applications",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "authorization",
+    "security",
+    "kindergarten",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "author": "Jiri Chara <jiri@chara.vip>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
