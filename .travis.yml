@@ -5,6 +5,4 @@ node_js:
   - 15
   - 14
 script:
-  - npm run lint
-  - npm test
   - npm run build

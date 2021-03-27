@@ -15,7 +15,7 @@ module.exports = {
   ],
 
   parserOptions: {
-    project: './tsconfig.json',
+    project: './tsconfig.lint.json',
   },
 
   settings: {
