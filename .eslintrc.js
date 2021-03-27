@@ -5,11 +5,13 @@ module.exports = {
 
   plugins: [
     '@typescript-eslint',
+    'jest',
   ],
 
   extends: [
     'airbnb-typescript',
     'prettier',
+   'plugin:jest/recommended',
   ],
 
   parserOptions: {
